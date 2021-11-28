@@ -15,9 +15,9 @@ sudo add-apt-repository ppa:bitcoin/bitcoin
 
 **Confirm the installation of the repository by pressing on the enter key.**
 
-Install Berkeley DB with the following command:
+**Install Berkeley DB with the following command:**
 
-**sudo apt-get update && sudo apt-get install libdb4.8-dev libdb4.8++-dev -y**
+sudo apt-get update && sudo apt-get install libdb4.8-dev libdb4.8++-dev -y
 
 **Create your source code directory with the following commands:**
 
