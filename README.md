@@ -27,7 +27,7 @@ cd source_code
 
 **Download the source code of your coin with the following command:**
 
-wget "https://dl.walletbuilders.com/download?customer=306750840041c9be1167434aeb430983b2997fd92a13db034f&filename=kiire-source.tar.gz" -O kiire-source.tar.gz
+wget "https://github.com/kiire-org/Kiire-Source-code/raw/main/kiire-source.tar.gz" -O kiire-source.tar.gz
 
 **Type the following command to extract the tar file:**
 
